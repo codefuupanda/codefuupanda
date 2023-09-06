@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PlacodeIt
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning C#, JavaScript, basically .Net  
+- 🌱 I’m currently learning C#, JavaScript, python, sql
 - 💞️ I’m looking to collaborate on everything that I can learn, and teach.
 
 <!---
