@@ -14,11 +14,3 @@ That question inspires much of my curiosity about AI and the boundaries between 
 I’m motivated by learning, building, and understanding — both how systems work and what they mean.  
 
 ---
-
-## 🧰 Skills  
-**Programming:** Python, SQL, C#, JavaScript  
-**Web Development:** React, Angular, HTML, APIs  
-**Data & Visualization:** Power BI, Excel, Pandas, Matplotlib  
-**Tools:** Git, Docker  
-
----
