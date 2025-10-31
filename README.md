@@ -5,7 +5,7 @@
 
 ## About Me  
 
-With each script, each project, and each line of logic, I’m learning to move with more purpose —  
+With each script, each project, and each line of logic, I’m learning to move with more understanding,  
 to see how the small parts connect to the bigger picture of how things really work.  
 
 Each project is like a small kata: a focused practice that sharpens both skill and patience.  
