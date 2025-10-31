@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Placodelt  
+# 👋 Hi, I'm codefuupanda
 💡 Curious about how logic, data, and creativity come together to make useful systems.  
 
 ---
