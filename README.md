@@ -4,21 +4,14 @@
 ---
 
 ## About Me  
-Like Po from *Kung Fu Panda*, I started clumsy and curious.  
-But with each script, each project, each line of logic, I’m learning to move with purpose.  
 
-Each project is a small kata a focused practice that sharpens both skill and patience.  
-No shortcuts. Just curiosity, persistence, and code.  
+With each script, each project, and each line of logic, I’m learning to move with more purpose —  
+to see how the small parts connect to the bigger picture of how things really work.  
 
----
+Each project is like a small kata: a focused practice that sharpens both skill and patience.  
+No shortcuts. Just curiosity, persistence and code.  
 
-## My Code-Fu Path  
-- 🧩 **Discipline** in structure  
-- 💭 **Creativity** in problem-solving  
-- 🌱 **Patience** in learning  
-
-Code is my dojo. means every commit a step toward mastery.  
-I’m not chasing perfection, just progress.  
+Code is my dojo, every commit it's a step to mastery. yet I’m not chasing perfection, just progress.  
 
 ---
 
