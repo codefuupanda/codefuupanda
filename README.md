@@ -17,3 +17,24 @@ Code is my dojo, every commit it's a step to mastery. yet I’m not chasing perf
 
 > “There is no secret ingredient. It’s just you.”  
 > — *Po, Kung Fu Panda*
+
+## Skills
+
+**Languages**  
+Python · JavaScript · C# · SQL
+
+**Data & ML**  
+pandas · NumPy · scikit-learn · Jupyter Notebook · Power BI · Excel
+
+**Web & Backend**  
+Node.js · Express · basic React · REST APIs
+
+**Tools & Workflow**  
+Git & GitHub · VS Code · JupyterLab · SQL Server · Anaconda
+
+---
+
+## Repositories & Learning
+
+Not all repositories here are “finished products”.  
+Some are assignments, experiments, or work-in-progress projects that reflect the endless ways to use technology.
